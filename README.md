@@ -1,2 +1,2 @@
 # Fsl02
-Repositorio das aulas do curso de full stsck live da turma 02 
+Repositorio das aulas do curso de full stack live da turma 02 
